@@ -54,7 +54,7 @@
     "eslint-config-prettier": "^9.1.0",
     "prettier": "^3.2.5",
     "tsx": "^4.7.1",
-    "typedoc": "^0.25.12",
+    "typedoc": "^0.26.0",
     "typescript": "^5.4.2"
   },
   "dependencies": {
